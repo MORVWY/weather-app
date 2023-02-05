@@ -1,0 +1,24 @@
+@import "fonts";
+@import "media";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    overflow-x: hidden;
+    background-color: --bs-body-bg;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ol,
+ul {
+    list-style: none;
+}
