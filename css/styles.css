@@ -10,6 +10,36 @@ body {
   font-family: "Josefin Sans", sans-serif;
   overflow-x: hidden;
   background-color: --bs-body-bg;
+  padding-top: 50px;
+  color: #393E46;
+  font-size: 1.2rem;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+body .title__text {
+  font-weight: 900;
+  text-align: center;
+  font-size: 3rem;
+}
+body main section {
+  padding-top: 25px;
+}
+body main .search-form__input {
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+body main .item__image {
+  display: block;
+  width: 100px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+body .footer__link {
+  position: absolute;
+  bottom: 1%;
+  right: 1%;
 }
 
 a {
