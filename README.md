@@ -1,8 +1,10 @@
 # weather-app
  MAIN INFORMATION
+ ----------------------------------------------------------------------------------------------
 Weather app where the user can enter the name of the city in the field and get the weather data.
 
 MAIN FEATURES
+ ----------------------------------------------------------------------------------------------
 1. Bootstrap 5.
 2. Responsive for pc, laptops, tablets and phones.
 3. Used fetch to get requests from openweatherapi API.
